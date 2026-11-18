@@ -118,9 +118,6 @@ Maintained by [Codhaus](https://codhaus.com/), a software and AI engineering tea
 
 ## License
 
-
-## License
-
 This project is open-source and licensed under the MIT License.
 
 Copyright (c) 2026 Codhaus.
