@@ -46,7 +46,7 @@ Read the [architecture](docs/architecture.md), [reliability patterns](docs/patte
 Requires **Python 3.11+**.
 
 ```bash
-git clone https://github.com/YOUR-ORG/ai-workflow-automation-patterns.git
+git clone https://github.com/codhaus32/ai-workflow-automation-patterns.git
 cd ai-workflow-automation-patterns
 python -m pip install -e .
 python -m ai_workflow_patterns run --input examples/tickets.json --provider rules
@@ -117,4 +117,13 @@ Maintained by [Codhaus](https://codhaus.com/), a software and AI engineering tea
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Verify ownership and the named copyright holder before publication.
+
+## License
+
+This project is open-source and licensed under the MIT License.
+
+Copyright (c) 2026 Codhaus.
+
+You are free to use, modify, distribute, and build upon this project in accordance with the terms of the MIT License.
+
+For complete licensing details, see the [LICENSE](LICENSE) file.
