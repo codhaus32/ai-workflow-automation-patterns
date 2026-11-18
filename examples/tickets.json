@@ -1,0 +1,17 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "Invoice total seems wrong",
+    "body": "Hello, can you check why my invoice shows two charges for the same month?"
+  },
+  {
+    "id": "T-1002",
+    "subject": "Urgent: production API outage",
+    "body": "The API is down and users cannot access the app. This is critical."
+  },
+  {
+    "id": "T-1003",
+    "subject": "Interested in a product demo",
+    "body": "Our team would like pricing and a sales demo for your product."
+  }
+]
