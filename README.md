@@ -52,7 +52,8 @@ python -m pip install -e .
 python -m ai_workflow_patterns run --input examples/tickets.json --provider rules
 ```
 
-> Replace `YOUR-ORG` with your actual GitHub organization or username after publishing. The project can also run without installation using `PYTHONPATH=src python -m ai_workflow_patterns ...` on macOS/Linux, or set `PYTHONPATH` in your shell.
+
+> The project can also run without installation using `PYTHONPATH=src python -m ai_workflow_patterns ...` on macOS/Linux, or by setting `PYTHONPATH` in your shell.
 
 The tool prints a JSON summary. **No live integrations are invoked.** Local state defaults to `.state/workflows.sqlite3` and `.state/audit.jsonl` (both gitignored).
 
